@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BAD4F46D-2F3B-4BCE-AB19-93D7056130E9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>emilytree1825-byter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DC1AA395A42546C0BC192B05FB718899075D5C10</key>
+		<string>https://github.com/EmilyTree1825/emilytree1825-byter.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>emilytree1825-byter/emilytree1825-byter.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DC1AA395A42546C0BC192B05FB718899075D5C10</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/EmilyTree1825/emilytree1825-byter.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DC1AA395A42546C0BC192B05FB718899075D5C10</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DC1AA395A42546C0BC192B05FB718899075D5C10</string>
+			<key>IDESourceControlWCCName</key>
+			<string>emilytree1825-byter</string>
+		</dict>
+	</array>
+</dict>
+</plist>
